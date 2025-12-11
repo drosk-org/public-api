@@ -1,0 +1,20 @@
+[
+  {
+    "version": "closed-beta-preview-0.0.1",
+    "releaseDate": "2025-12-07",
+    "platform": "Windows",
+    "url": "https://pub-43f59ea502924d38b1a89b927f5922bf.r2.dev/general-release-archives-bucket-s3/windows-universal/closed-preview/drosk-windows_closed-preview-0.0.1.zip",
+    "checksum": "D3895F96239BAF287D8FB4D1EAE55CA39087F6B7F55CD966D739019946F29942",
+    "signatureUrl": "https://pub-43f59ea502924d38b1a89b927f5922bf.r2.dev/general-release-archives-bucket-s3/windows-universal/closed-preview/drosk-windows_closed-preview-0.0.1.zip.sig",
+    "notes": "Initial beta preview release with core file management features implemented. Includes Sentinel file watcher and extensive recipe creations."
+  },
+  {
+    "version": "initial-test-0.0.1",
+    "releaseDate": "2025-11-30",
+    "platform": "Windows",
+    "url": "https://pub-43f59ea502924d38b1a89b927f5922bf.r2.dev/general-release-archives-bucket-s3/windows-universal/initial-test/Drosk-Winx64.zip",
+    "checksum": "73835FC922F817B9D8271CD280D07174400DAD34794B971EB79C80038B6C2853",
+    "signatureUrl": "https://pub-43f59ea502924d38b1a89b927f5922bf.r2.dev/general-release-archives-bucket-s3/windows-universal/initial-test/Drosk-Winx64.zip.sig",
+    "notes": "Initial seed idea to test out the initial distribution pipeline and original idea. Very early prototype with minimal features."
+  }
+]
