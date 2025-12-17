@@ -1,7 +1,18 @@
 {
-  "version": "0.0.0",
-  "min_launcher_version": "1.0.0",
-  "notes": "Initial release.",
-  "changelog_url": "",
-  "platforms": []
+  "schemaVersion": 1,
+  "minLauncherVersion": "1.0.0",
+  "changelogUrl": "",
+  "platforms": {
+    "windows": {
+      "version": "0.0.1",
+      "releaseDate": "2025-12-06T15:00:00Z",
+      "isCritical": true,
+      "url": "",
+      "size": -1,
+      "compression": "zip",
+      "checksum": "",
+      "signatureUrl": "",
+      "notes":""
+    },
+  }
 }
