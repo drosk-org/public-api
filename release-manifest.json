@@ -3,16 +3,6 @@
   "min_launcher_version": "0.0.1",
   "changelog_url": "",
   "platforms": {
-    "windows": {
-      "version": "0.0.1",
-      "timestamp": "2025-12-06T15:00:00Z",
-      "critical": true,
-      "url": "",
-      "size": -1,
-      "compression": "zip",
-      "checksum": "",
-      "signature_url": "",
-      "notes":""
-    }
+    "windows": { "version": "closed-beta-preview-0.0.1", "timestamp": "2025-12-07T00:00:00Z", "critical": false, "url": "https://pub-43f59ea502924d38b1a89b927f5922bf.r2.dev/general-release-archives-bucket-s3/windows-universal/closed-preview/drosk-windows_closed-preview-0.0.1.zip", "size": -1, "compression": "zip", "checksum": "D3895F96239BAF287D8FB4D1EAE55CA39087F6B7F55CD966D739019946F29942", "signature_url": "https://pub-43f59ea502924d38b1a89b927f5922bf.r2.dev/general-release-archives-bucket-s3/windows-universal/closed-preview/drosk-windows_closed-preview-0.0.1.zip.sig", "notes": "Initial beta preview release with core file management features implemented. Includes Sentinel file watcher and extensive recipe creations." }
   }
 }
